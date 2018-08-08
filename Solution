@@ -1,0 +1,27 @@
+// Javascript *** Arguments ***
+
+//for example;
+//num can be;num(10),or num(100).
+
+function km(num){
+	console.log(num * num);
+}
+//also;
+
+function area(lenght, width) {
+	console.log(lenght * width);
+}
+area(9,2); //18
+
+function perfect(personal1, personal2, personal3){
+	console.log("hello " + personal1); 
+	console.log("hello " + personal2); 
+	console.log("hello " + personal3); 
+}
+perfect("Bobby", "Azik", "Tommy"); // enter
+hello Bobby
+hello Azik
+hello Tommy
+
+
+
